@@ -1,0 +1,7 @@
+[ERROR] (tests/ex_tests.c:17: errno: No such file or directory) Failed to open the library ../build/libex.so: dlopen(../build/libex.so, 2): image not found
+[ERROR] (tests/ex_tests.c:22: errno: None) Did not find rvm_use_flag= function in the library ./build/libex.so: dlsym(0x7f9e18d00000, rvm_use_flag=): symbol not found
+[ERROR] (tests/ex_tests.c:17: errno: No such file or directory) Failed to open the library /build/libex.so: dlopen(/build/libex.so, 2): image not found
+[ERROR] (tests/ex_tests.c:17: errno: No such file or directory) Failed to open the library /build/libex.so: dlopen(/build/libex.so, 2): image not found
+[ERROR] (tests/ex_tests.c:22: errno: None) Did not find rvm_use_flag= function in the library (null): dlsym(RTLD_DEFAULT, rvm_use_flag=): symbol not found
+[ERROR] (tests/ex_tests.c:22: errno: None) Did not find rvm_use_flag= function in the library (null): dlsym(RTLD_DEFAULT, rvm_use_flag=): symbol not found
+[ERROR] (tests/ex_tests.c:44: errno: No such file or directory) Failed to open the library ../build/libex.so: dlopen(../build/libex.so, 2): image not found
